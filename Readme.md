@@ -52,7 +52,7 @@
 - <code>git clone ↆↆ </code>
   
   ```bash
-  git clone 
+  git clone https://github.com/bagussatoto/Pusat-Karir
   ``` 
   
 - <code>cd pusat karir</code>
