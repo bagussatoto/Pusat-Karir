@@ -1,0 +1,88 @@
+.navbar-custom-menu > .navbar-nav > li > .dropdown-menu {
+	box-shadow: 3px 3px 6px grey;
+}
+#example2 .bg-red, #example2 .bg-green {
+	padding: 5px;
+	border-radius: 2px;
+	font-weight: bold;
+	font-size: 13px;
+}
+#example1 .bg-red, #example1 .bg-green {
+	padding: 5px;
+	border-radius: 2px;
+	font-weight: bold;
+	font-size: 13px;
+}
+.col-md-3.ls-ad {
+	background-color: #fff;
+}
+.col-md-3.ls-ad h2 {
+	font-size: 1.4em;
+}
+/*====== GALLERY =============*/
+.img-thumbnail{
+	border-radius: 0;
+}
+.img-thumbnail:hover{
+	filter: brightness(60%);
+}
+#option2 {
+	margin-top: -45px;
+	width: 100%;
+}
+#option2 a {
+	color: rgb(0, 0, 0);
+	background-color: rgb(206, 206, 206);
+	/*width: 100%;*/
+	text-align: right;
+	padding-right: 10px;
+	padding: 3px;
+	margin-left: 5px;
+	filter: opacity(60%);
+}
+
+/*============ PROFIL ============*/
+.box.box-widget.widget-user ul{
+	text-align:center;
+	padding-left: 0px;
+}
+.box.box-widget.widget-user .box-footer{
+	margin-top: 20px;
+}
+.box.box-widget.widget-user ul li{
+	list-style:none;
+}
+#epro {
+	display: none;
+}
+/*============= GAMBAR =============*/
+.toolbar{
+	border-style: groove;
+	height: 50px;
+}
+.toolbar ul li {
+	display: inline-block;
+	margin-top: 5px;
+	margin-bottom: -5px;
+	float: left;
+	margin-left: -30px;
+}
+.gal-body {
+	overflow: scroll;
+	overflow-x: hidden;
+	overflow-y: auto;
+	clear: both;
+}
+#up{
+	display: inline-block;
+	width: 85px;
+}
+/*pencarian*/
+.box-body.cari h1{
+	text-align: justify !important;
+}
+.jh {
+	background-color: #9696FB;
+margin-left: -10px;
+margin-right: -10px;
+}
